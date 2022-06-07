@@ -1,0 +1,2 @@
+[webservers]
+192.168.56.120 ansible_user=root 
