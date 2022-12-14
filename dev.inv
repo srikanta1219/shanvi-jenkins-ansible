@@ -1,5 +1,5 @@
 [myserver]
 192.168.56.130 ansible_user=root 
-192.168.56.131 ansible_user=root
-192.168.56.132 ansible_user=root
-192.168.56.133 ansible_user=root
+#192.168.56.131 ansible_user=root
+#192.168.56.132 ansible_user=root
+#192.168.56.133 ansible_user=root
